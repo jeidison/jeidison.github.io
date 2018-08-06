@@ -1111,12 +1111,12 @@ input[type='text'].focus, textarea.focus, select.focus {
 }
 
 .banner_historico {
-    background-image: url(../image/logo_background_historico.jpg);
+    background-image: url(../images/history/logo_background_historico.jpg);
     height: 100%
 }
 
 .banner_pdoutrinarios {
-    background-image: url(../image/logo_background_pdoutrinarios.jpg);
+    background-image: url(../images/doctrine/logo_background_pdoutrinarios.jpg);
     height: 400px;
 }
 
